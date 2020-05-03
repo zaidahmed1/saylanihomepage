@@ -1,0 +1,134 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+background-color: whitesmoke;
+
+}
+
+header{
+    background-color:	#3f51b5;
+    color:whitesmoke
+}
+.btn-111{
+    background-color: whitesmoke;
+    padding:0;
+    padding: 5px 10px;
+    border-radius: 3px;
+    font-size: 11px;
+}
+
+.nav-111{
+    float: right;
+    background-color: whitesmoke;
+
+}
+.dropy{
+    border:none;
+    background-color:whitesmoke;
+    border-radius: 2em;
+   font-weight: 450;
+}
+.calar{
+background-color: whitesmoke;
+}
+button.dropy:hover{
+    background-color:#3f51b5;
+    color:white;
+}
+.zzz{
+    background-color:#3f51b5;
+    color:white;
+}
+a{
+    text-decoration:none;
+}
+.green{
+    color:green
+}
+.blue{
+    color: blue;
+}
+.news{
+background-color: #3f51b5;  
+padding:0;  
+margin-top:1em;
+padding-top: 2px;
+color:whitesmoke;
+padding-left:2px;
+}
+.para{
+    text-align: center;
+    font-size: 40px;
+    font-family:serif;
+}
+.para1{
+    font-size:14px;
+}
+.center{
+    text-align: center;
+    
+}
+.show{
+    margin-top: 7em;
+    margin-bottom: 4em;
+}
+.num{
+    font-size: 45px;
+}
+.showgr{
+    color:rgb(22, 218, 22);
+    font-size: 17px;
+    font-weight: 550;
+}
+.whatwe{
+    width: 250;
+    background-color: white;
+    box-shadow:  0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: larger;
+    font-weight: 500;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin-bottom: 30px;
+padding:30px;
+}
+.upcomingh{
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.upcoming{
+    padding:15px;
+    height:50px;
+    margin-bottom:20px;
+    padding-bottom:8px
+}
+.padd{
+    padding-bottom:12em;
+}
+.contactbox{
+    background-color: #000000;
+    color:whitesmoke;
+    padding-bottom: 6em;
+}
+.finallogo{
+    border-radius: 50%;
+}
+.footer{
+    background-color:#3f51b5 ;
+    color:white;
+    padding-left:100px;
+    word-spacing: 12px;
+    letter-spacing: 5px;
+    padding-bottom:1em;
+    padding-top:1em;
+    
+}
+.sml{
+    font-size: medium;
+}
+@media only screen and (max-width: 600px){
+.footer{
+    font-size: small;
+    letter-spacing: 3px;
+    word-spacing: 7px;
+    padding-left: 20px;
+}
+
+}
